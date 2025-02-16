@@ -4,7 +4,7 @@ This is a Python script that checks if a list of Spotify account credentials hav
 
 ## Requirements
 
-- Chrome 112 or higher must be installed.
+- Chrome 133 or higher must be installed.
 - Python 3.x must be installed.
 - Use pip to install the required packages with the following command:
 
