@@ -10,7 +10,10 @@
         "users_in_error": "These users are in error, possibly invalid credentials.",
         "discord_notification": "<@{discord_id}>\n```{user_list}```",
         "discord_notification_success": "Message sent successfully on Discord!",
-        "discord_notification_error": "Error sending message on Discord."
+        "discord_notification_error": "Error sending message on Discord.",
+        "discord_not_configured": "The Discord Webhook has not been configured.",
+        "progress": "Progress: {progress:.2f}% ({index}/{total})",
+        "verification_completed": "Verification completed."
     },
     "fr": {
         "windows_platform": "Utilisation sous Windows",
@@ -23,6 +26,9 @@
         "users_in_error": "Ces utilisateurs sont en erreur, peut-être des informations d'identification non valides.",
         "discord_notification": "<@{discord_id}>\n```{user_list}```",
         "discord_notification_success": "Message envoyé avec succès sur Discord !",
-        "discord_notification_error": "Erreur lors de l'envoi du message sur Discord."
+        "discord_notification_error": "Erreur lors de l'envoi du message sur Discord.",
+        "discord_not_configured": "Le Webhook Discord n'a pas été configuré.",
+        "progress": "Progression : {progress:.2f}% ({index}/{total})",
+        "verification_completed": "Vérification terminée."
     }
 }
